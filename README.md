@@ -1,2 +1,3 @@
 ## Final Output 
-![](screenshots/Large Screen.jpeg)
+![Large View](screenshots/Large%20View.jpg)
+
