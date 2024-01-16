@@ -1,4 +1,4 @@
 ## Final Output 
-![Large View](screenshots/LargeScreen.jpg?raw=true)
-![Mobile View](screenshots/Mobileview.jpg?raw=true)
+![Large View](screenshots/LargeScreen.jpeg?raw=true)
+![Mobile View](screenshots/Mobileview.jpeg?raw=true)
 
